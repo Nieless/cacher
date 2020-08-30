@@ -2,7 +2,7 @@
 
 `usage:`
 
-import "github.com/Nieless/cacher"
+import "github.com/nieless/cacher"
 
 * cache any type of item 
 
